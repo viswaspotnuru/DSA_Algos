@@ -1,2 +1,2 @@
 # DSA_Algos
-Data Structures and Algorithms
+Data Structures and Alogrithms
